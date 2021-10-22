@@ -1,8 +1,3 @@
-// System Name: ENROLLMENT CONCERN ID121 Freshmen and Transferees
-// System Link: https://docs.google.com/spreadsheets/d/1zgrs73X4ZNLcxEdmHZB-ZXtHjkx0dqtiG_xdZfvnVrs/edit#gid=679748804
-// Date Created: August 25, 2021, by Rommel Tupig, Dennis Balinhawang
-// Stable (Y/N)? Y
-
 //Backup code for your spreadsheet
 function BackupCopy() {
   //get id of the spreadsheet
